@@ -69,6 +69,15 @@ sections:
         icon: arrowRight
         iconPosition: right
         elementId: ''
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: 'file:///C:/Users/Kuldeep%20Singh/Downloads/My%20Resume.pdf'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/photo1.jpg
