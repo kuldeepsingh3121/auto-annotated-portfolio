@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Sidebar Menu
 colors: colors-a
-date: ''
+date: '2022-03-22'
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
