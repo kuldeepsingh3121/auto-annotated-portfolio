@@ -1,14 +1,13 @@
 ---
 type: ProjectLayout
-title: One more cool project
+title: Sidebar Menu
 colors: colors-a
-date: '2022-01-22'
-client: Awesome client
-description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+date: '2025-03-10'
+client: Personal Project
+description: " Pure CSS Sidebar Menu with Smooth Animation \U0001F3A8I recently built a fully functional sidebar menu using only HTML & CSS, without any JavaScript! Instead of traditional JS-based toggling, I implemented a checkbox hack and CSS pseudo-classes to create an interactive experience.\U0001F539 Key Features: ✅ Toggle menu using a checkbox & labels (no JS required!) ✅ Smooth transitions & hover effects for a sleek UI ✅ Fully responsive design for all screen sizes ✅ Social media icons & stylish layout with background imageThis project helped me enhance my CSS animation, pseudo-classes, and UI/UX skills while focusing on lightweight and efficient design."
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/Screenshot 2025-03-10 225117.png
   altText: Project thumbnail image
 media:
   type: ImageBlock

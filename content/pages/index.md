@@ -10,16 +10,58 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
+  - type: MediaGallerySection
+    title: ''
+    subtitle: ''
+    images:
+      - type: ImageBlock
+        url: /images/gallery-1.jpg
+        altText: Image one
+        caption: Image one caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/gallery-2.jpg
+        altText: Image two
+        caption: Image two caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/gallery-3.jpg
+        altText: Image three
+        caption: Image three caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/gallery-4.jpg
+        altText: Image four
+        caption: Image four caption
+        elementId: ''
+    colors: colors-f
+    spacing: 16
+    columns: 4
+    aspectRatio: '4:3'
+    showCaption: false
+    enableHover: true
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: full
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        textAlign: center
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+    title: Web Developer
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      I'm Kuldeep singh aspiring Full-Stack Web Development with a passion for
+      creating responsive and user- friendly web applications. Currently
+      pursuing B.Tech in AIML , I have a strong foundation in HTML, CSS,
+      JavaScript , and I am actively learning DSA in Java . Eager to gain
+      hands-on experience, collaborate on real-world projects, and grow in the
+      tech industry.
     styles:
       self:
         height: auto
@@ -53,7 +95,6 @@ sections:
     projects:
       - content/pages/projects/project-two.md
       - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
     styles:
       self:
         height: auto

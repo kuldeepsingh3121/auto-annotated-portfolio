@@ -1,14 +1,13 @@
 ---
 type: ProjectLayout
-title: Another cool project
+title: Spotify Clone
 colors: colors-a
-date: '2021-12-20'
-client: Awesome client
-description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+date: '2025-03-12'
+client: Personal Project
+description: " a Spotify Clone, developed as part of my Apna College Sigma 4.0 course! This project helped me refine my frontend development skills using only HTML & CSS.\U0001F525 Features:✅ Sleek UI: Inspired by Spotify’s dark theme for an immersive experience. ✅ Sidebar Navigation: Quick access to Home, Search, and Library. ✅ Trending & Featured Playlists: Showcasing dynamic cards with album covers. ✅ Music Player Layout: A visually appealing design for playback controls. ✅ Fully Responsive: Works seamlessly on desktops & mobile devices.\U0001F6E0 Tech Stack:\U0001F539 HTML – For structuring the web app \U0001F539 CSS – For styling & layout with FlexboxThis project was a great learning experience in UI/UX design, responsiveness, and frontend web development. I’m excited to explore more in Full-Stack Development!"
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/Screenshot 2025-03-12 142011.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
