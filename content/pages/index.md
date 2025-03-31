@@ -118,7 +118,7 @@ sections:
     subtitle: ''
     items:
       - type: Label
-        label: React
+        label: HTML
         url: ''
       - type: Label
         label: Microsoft Office
