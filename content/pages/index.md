@@ -65,7 +65,7 @@ sections:
         label: Learn more
         altText: ''
         url: 'file:///C:/Users/Kuldeep%20Singh/Downloads/My%20Resume.pdf'
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         elementId: ''
