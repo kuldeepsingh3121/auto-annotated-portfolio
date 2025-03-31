@@ -55,7 +55,7 @@
     "header": {
         "type": "Header",
         "title": "Your Brand",
-        "isTitleVisible": true,
+        "isTitleVisible": false,
         "logo": {
             "type": "ImageBlock",
             "url": "https://assets.stackbit.com/components/images/default/default-image.png",
