@@ -62,7 +62,7 @@ sections:
       tech industry.
     actions:
       - type: Button
-        label: Learn more
+        label: Resume
         altText: ''
         url: 'file:///C:/Users/Kuldeep%20Singh/Downloads/My%20Resume.pdf'
         showIcon: false
