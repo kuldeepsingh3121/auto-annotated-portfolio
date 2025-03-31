@@ -69,7 +69,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
-        elementId: ''
+        elementId: img
     media:
       type: ImageBlock
       url: /images/photo1.jpg
