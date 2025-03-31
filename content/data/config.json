@@ -6,12 +6,6 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
-                "url": "",
-                "altText": "Home"
-            },
-            {
-                "type": "Link",
                 "label": "Contact",
                 "url": "mailto:thisismyemail.@myemail.me",
                 "altText": "kuldeepsingh3121@gmail.com"
