@@ -124,7 +124,7 @@ sections:
         label: CSS
         url: ''
       - type: Label
-        label: Next.js
+        label: JavaScript
         url: ''
       - type: Label
         label: Netlify
