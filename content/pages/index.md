@@ -90,7 +90,7 @@ sections:
           - pr-4
         flexDirection: row
         textAlign: left
-  - colors: colors-a
+  - colors: colors-b
     type: FeaturedProjectsSection
     elementId: ''
     actions:
