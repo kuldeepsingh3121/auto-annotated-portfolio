@@ -70,7 +70,7 @@
                 "altText": "Home",
                 "url": "/",
                 "showIcon": true,
-                "icon": "",
+                "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": ""
             },
