@@ -61,14 +61,6 @@ sections:
       hands-on experience, collaborate on real-world projects, and grow in the
       tech industry.
     actions:
-      - type: Link
-        label: Resume
-        altText: ''
-        url: 'file:///C:/Users/Kuldeep%20Singh/Downloads/My%20Resume.pdf'
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        elementId: ''
       - type: Button
         label: Learn more
         altText: ''
