@@ -171,7 +171,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
-    title: Certificate
+    title: Certificates
   - type: ContactSection
     title: Contact Me
     text: I'm look forward to hearing from you.
