@@ -146,7 +146,7 @@ sections:
     actions:
       - type: Link
         label: See all projects
-        altText: See all projects
+        altText: ''
         url: /projects
         showIcon: false
         icon: arrowRight
