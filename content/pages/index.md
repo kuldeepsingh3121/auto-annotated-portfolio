@@ -152,7 +152,8 @@ sections:
         icon: arrowRight
         iconPosition: right
         elementId: ''
-    projects: []
+    projects:
+      - content/pages/projects/React-JS-Masterclass.md
     colors: colors-f
     variant: variant-a
     elementId: ''
