@@ -64,7 +64,7 @@ sections:
       - type: Button
         label: Resume
         altText: ''
-        url: /
+        url: ''
         showIcon: true
         icon: arrowRight
         iconPosition: right
