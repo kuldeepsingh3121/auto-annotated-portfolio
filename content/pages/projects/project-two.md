@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Spotify Clone
 colors: colors-a
-date: '0002-03-12'
+date: '2025-03-12'
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
