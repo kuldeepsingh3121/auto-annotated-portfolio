@@ -53,8 +53,12 @@ sections:
         textAlign: center
   - type: HeroSection
     title: >-
-      I'm a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      I'm Kuldeep singh aspiring Full-Stack Web Development with a passion for
+      creating responsive and user- friendly web applications. Currently
+      pursuing B.Tech in AIML , I have a strong foundation in HTML, CSS,
+      JavaScript , and I am actively learning DSA in Java . Eager to gain
+      hands-on experience, collaborate on real-world projects, and grow in the
+      tech industry.
     subtitle: >-
       This is my info—I'm sharing it all this with ya'll to impress you with all
       the hard work I've done in the past few years. Once you're impressed, you
