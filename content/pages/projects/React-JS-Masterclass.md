@@ -24,7 +24,7 @@ backgroundImage:
 featuredImage:
   type: ImageBlock
   url: /images/kuldeepsingh.jpeg
-  altText: altText of the image
+  altText: ''
   caption: Caption of the image
   elementId: ''
 ---
