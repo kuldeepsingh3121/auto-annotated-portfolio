@@ -4,7 +4,7 @@ title: ''
 colors: colors-a
 date: '2021-10-15'
 client: ''
-description: ''
+description: "I have successfully completed the React JS Masterclass - Go from Zero to Job Ready offered by L&T EduTech's College Connect Programme. This journey has been an incredible learning experience, strengthening my skills in React.js and preparing me for real-world development.A big thank you to L&T EduTech for this opportunity and to my mentors for their guidance. Looking forward to applying my knowledge to build impactful web applications!\U0001F539 Skills Gained: React.js, Component-Based Architecture, State Management, and Performance Optimization \U0001F539 Course Duration: 21 Dec 2024 - 14 Mar 2025Let’s connect and collaborate on exciting React.js projects!"
 media:
   type: ImageBlock
   url: /images/bg1.jpg
