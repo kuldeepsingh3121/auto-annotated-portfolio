@@ -26,7 +26,7 @@
             {
                 "type": "Link",
                 "label": "Linkedin",
-                "altText": "",
+                "altText": "linkedin",
                 "url": "https://www.linkedin.com/in/kuldeep-singh3121/",
                 "showIcon": false,
                 "icon": "arrowRight",
