@@ -1,51 +1,6 @@
 {
     "type": "Config",
     "favicon": "/images/contact.jpg",
-    "footer": {
-        "type": "Footer",
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
-                "altText": "kuldeepsingh3121@gmail.com"
-            },
-            {
-                "type": "Link",
-                "label": "Linkedin",
-                "url": "https://www.linkedin.com/in/kuldeep-singh-287668318/",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "GitHub",
-                "url": "https://github.com/kuldeepsingh3121",
-                "altText": ""
-            }
-        ],
-        "contacts": {
-            "type": "ContactBlock",
-            "title": "Contact details",
-            "phoneNumber": "942XXXXXX28",
-            "phoneAltText": "My phone number",
-            "email": "kuldeepsingh31216@gmail.com",
-            "emailAltText": "",
-            "address": "Jaipur,Rajasthan",
-            "addressAltText": ""
-        },
-        "copyrightText": "",
-        "styles": {
-            "self": {
-                "width": "wide",
-                "padding": [
-                    "pt-16",
-                    "pb-16",
-                    "pr-4",
-                    "pl-4"
-                ]
-            }
-        }
-    },
     "header": {
         "type": "Header",
         "title": "Portfolio",
