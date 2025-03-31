@@ -3,9 +3,7 @@ type: ProjectLayout
 title: ''
 date: '2025-03-23'
 client: ''
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: ''
 featuredImage:
   type: ImageBlock
   url: /images/Screenshot 2025-03-28 145332.png
