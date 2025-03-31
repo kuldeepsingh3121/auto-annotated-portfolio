@@ -60,16 +60,7 @@ sections:
       JavaScript , and I am actively learning DSA in Java . Eager to gain
       hands-on experience, collaborate on real-world projects, and grow in the
       tech industry.
-    actions:
-      - type: Button
-        label: Resume
-        altText: ''
-        url: ''
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: img
+    actions: []
     media:
       type: ImageBlock
       url: /images/photo1.jpg
