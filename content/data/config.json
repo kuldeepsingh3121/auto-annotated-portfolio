@@ -38,14 +38,6 @@
             {
                 "type": "Social",
                 "label": "",
-                "altText": "X (Twitter)",
-                "url": "/",
-                "icon": "twitter",
-                "elementId": ""
-            },
-            {
-                "type": "Social",
-                "label": "",
                 "altText": "GitHub",
                 "url": "/",
                 "icon": "github",
