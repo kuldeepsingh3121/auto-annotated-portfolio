@@ -16,7 +16,7 @@ media:
   type: ImageBlock
   url: /images/kuldeepsingh.jpeg
   altText: ''
-  caption: Caption of the image
+  caption: ''
   elementId: ''
 addTitleSuffix: true
 colors: colors-a
