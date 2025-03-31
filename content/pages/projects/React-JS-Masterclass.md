@@ -15,7 +15,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/kuldeepsingh.jpeg
-  altText: Project image
+  altText: ''
   caption: Caption of the image
   elementId: ''
 addTitleSuffix: true
