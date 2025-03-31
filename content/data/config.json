@@ -15,7 +15,7 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Home",
+                "label": "",
                 "altText": "Home",
                 "url": "/",
                 "showIcon": true,
