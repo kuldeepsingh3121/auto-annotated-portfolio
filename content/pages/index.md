@@ -51,9 +51,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: center
-  - elementId: ''
-    colors: colors-f
-    backgroundSize: full
+  - type: HeroSection
     title: Web Developer
     subtitle: >-
       I'm Kuldeep singh aspiring Full-Stack Web Development with a passion for
@@ -62,36 +60,45 @@ sections:
       JavaScript , and I am actively learning DSA in Java . Eager to gain
       hands-on experience, collaborate on real-world projects, and grow in the
       tech industry.
+    actions:
+      - type: Button
+        label: Hire me
+        altText: ''
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    media:
+      type: ImageBlock
+      url: /images/photo1.jpg
+      altText: Hero image
+      caption: Caption of the image
+      elementId: ''
+    colors: colors-a
+    backgroundSize: full
+    elementId: ''
     styles:
       self:
         height: auto
         width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
         padding:
           - pt-36
           - pb-48
           - pl-4
           - pr-4
-        flexDirection: row-reverse
+        flexDirection: row
         textAlign: left
-    type: HeroSection
-    actions: []
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
-    actions:
-      - type: Link
-        label: See all projects
-        url: /projects
+    actions: []
     showDate: false
     showDescription: true
     showFeaturedImage: true
     showReadMoreLink: true
-    variant: variant-b
+    variant: variant-a
     projects:
       - content/pages/projects/project-two.md
       - content/pages/projects/project-three.md
@@ -106,92 +113,123 @@ sections:
           - pr-4
         textAlign: left
     subtitle: Projects
-  - type: FeaturedPostsSection
-    elementId: ''
+  - type: LabelsSection
+    title: Skills
+    subtitle: ''
+    items:
+      - type: Label
+        label: HTML
+        url: ''
+      - type: Label
+        label: CSS
+        url: ''
+      - type: Label
+        label: JavaScript
+        url: ''
+      - type: Label
+        label: Bootstrap
+        url: ''
     colors: colors-f
-    variant: variant-d
-    subtitle: Featured Posts
-    showFeaturedImage: false
-    actions:
-      - type: Link
-        label: See all posts
-        url: /blog
-    posts:
-      - content/pages/blog/post-six.md
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
-    showDate: true
-    showExcerpt: true
-    showReadMoreLink: true
+    elementId: ''
     styles:
       self:
         height: auto
-        width: narrow
+        width: wide
         padding:
-          - pt-28
-          - pb-48
+          - pt-36
+          - pb-36
           - pl-4
           - pr-4
         textAlign: left
-  - type: ContactSection
+  - type: FeaturedProjectsSection
+    subtitle: ''
+    actions:
+      - type: Link
+        label: ''
+        altText: ''
+        url: ''
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
+    projects:
+      - content/pages/projects/React-JS-Masterclass.md
+      - content/pages/projects/Placement-Preparation.md
     colors: colors-f
-    backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
-    form:
-      type: FormBlock
-      elementId: sign-up-form
-      fields:
-        - name: firstName
-          label: First Name
-          hideLabel: true
-          placeholder: First Name
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: lastName
-          label: Last Name
-          hideLabel: true
-          placeholder: Last Name
-          isRequired: false
-          width: 1/2
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: 1/2
-          type: EmailFormControl
-        - name: address
-          label: Address
-          hideLabel: true
-          placeholder: Address
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve updates
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
-      styles:
-        self:
-          textAlign: center
+    variant: variant-a
+    elementId: ''
+    showDate: false
+    showDescription: false
+    showFeaturedImage: true
+    showReadMoreLink: false
     styles:
       self:
         height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
+        width: wide
         padding:
           - pt-24
           - pb-24
-          - pr-4
           - pl-4
+          - pr-4
+        textAlign: left
+    title: Certificates
+  - type: ContactSection
+    title: Contact Me
+    text: I'm look forward to hearing from you.
+    form:
+      type: FormBlock
+      title: Title of the form
+      fields:
+        - type: TextFormControl
+          name: name
+          label: Name
+          hideLabel: false
+          placeholder: Your name
+          width: 1/2
+          isRequired: 'true'
+        - type: EmailFormControl
+          name: email
+          label: Email
+          hideLabel: false
+          placeholder: Your email
+          width: 1/2
+          isRequired: 'true'
+        - type: TextareaFormControl
+          name: message
+          label: Tell me about your project
+          hideLabel: true
+          placeholder: Tell me about your project
+          width: full
+          isRequired: true
+        - type: CheckboxFormControl
+          name: updates
+          label: Sign me up to receive updates
+          width: full
+          isRequired: 'false'
+      submitLabel: Send Message
+      elementId: contact-form
+      styles:
+        self:
+          textAlign: left
+    media:
+      type: ImageBlock
+      url: /images/contact.jpg
+      altText: Contact form image
+      caption: Caption of the image
+      elementId: ''
+    colors: colors-f
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-28
+          - pb-36
+          - pl-4
+          - pr-4
         flexDirection: row
         textAlign: left
+socialImage: /images/photo1.jpg
 ---

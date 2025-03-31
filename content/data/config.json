@@ -1,57 +1,6 @@
 {
     "type": "Config",
     "favicon": "/images/contact.jpg",
-    "footer": {
-        "type": "Footer",
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Info",
-                "url": "",
-                "altText": "Home"
-            },
-            {
-                "type": "Link",
-                "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
-                "altText": "kuldeepsingh3121@gmail.com"
-            },
-            {
-                "type": "Link",
-                "label": "Linkedin",
-                "url": "https://www.linkedin.com/in/kuldeep-singh-287668318/",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "GitHub",
-                "url": "https://github.com/kuldeepsingh3121",
-                "altText": ""
-            }
-        ],
-        "contacts": {
-            "type": "ContactBlock",
-            "title": "Contact details",
-            "phoneNumber": "942XXXXXX28",
-            "phoneAltText": "My phone number",
-            "email": "kuldeepsingh31216@gmail.com",
-            "emailAltText": "",
-            "address": "Jaipur,Rajasthan",
-            "addressAltText": ""
-        },
-        "copyrightText": "",
-        "styles": {
-            "self": {
-                "width": "narrow",
-                "padding": [
-                    "pt-16",
-                    "pb-16",
-                    "pr-4",
-                    "pl-4"
-                ]
-            }
-        }
-    },
     "header": {
         "type": "Header",
         "title": "Portfolio",
@@ -66,19 +15,19 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Home",
-                "altText": "Home",
-                "url": "/",
+                "label": "Email",
+                "altText": "",
+                "url": "kuldeepsingh31216@gmail.com",
                 "showIcon": true,
-                "icon": "arrowRight",
+                "icon": "",
                 "iconPosition": "right",
                 "elementId": ""
             },
             {
                 "type": "Link",
-                "label": "Blog",
-                "altText": "Blog",
-                "url": "/",
+                "label": "Linkedin",
+                "altText": "linkedin",
+                "url": "https://www.linkedin.com/in/kuldeep-singh3121/",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -89,16 +38,8 @@
             {
                 "type": "Social",
                 "label": "",
-                "altText": "X (Twitter)",
-                "url": "/",
-                "icon": "twitter",
-                "elementId": ""
-            },
-            {
-                "type": "Social",
-                "label": "",
                 "altText": "GitHub",
-                "url": "/",
+                "url": "github.com/kuldeepsingh3121 ",
                 "icon": "github",
                 "elementId": ""
             }
