@@ -93,13 +93,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Web Developer
-    subtitle: >-
-      I'm Kuldeep singh aspiring Full-Stack Web Development with a passion for
-      creating responsive and user- friendly web applications. Currently
-      pursuing B.Tech in AIML , I have a strong foundation in HTML, CSS,
-      JavaScript , and I am actively learning DSA in Java . Eager to gain
-      hands-on experience, collaborate on real-world projects, and grow in the
-      tech industry.
+    subtitle: ''
     styles:
       self:
         height: auto
