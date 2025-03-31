@@ -145,7 +145,7 @@ sections:
     subtitle: ''
     actions:
       - type: Link
-        label: See all projects
+        label: ''
         altText: ''
         url: ''
         showIcon: false
