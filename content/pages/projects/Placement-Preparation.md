@@ -9,7 +9,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/Screenshot 2025-03-28 145332.png
-  altText: Project thumbnail image
+  altText: ''
   caption: ''
   elementId: ''
 media:
