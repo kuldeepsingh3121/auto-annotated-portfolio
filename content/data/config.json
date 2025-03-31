@@ -16,7 +16,7 @@
             {
                 "type": "Link",
                 "label": "",
-                "altText": "Home",
+                "altText": "",
                 "url": "/",
                 "showIcon": true,
                 "icon": "arrowRight",
