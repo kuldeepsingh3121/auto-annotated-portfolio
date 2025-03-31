@@ -129,9 +129,6 @@ sections:
       - type: Label
         label: Bootstrap
         url: ''
-      - type: Label
-        label: Swift
-        url: ''
     colors: colors-f
     elementId: ''
     styles:
