@@ -54,9 +54,12 @@ sections:
   - type: HeroSection
     title: Web Developer
     subtitle: >-
-      This is my info—I'm sharing it all this with ya'll to impress you with all
-      the hard work I've done in the past few years. Once you're impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      I'm Kuldeep singh aspiring Full-Stack Web Development with a passion for
+      creating responsive and user- friendly web applications. Currently
+      pursuing B.Tech in AIML , I have a strong foundation in HTML, CSS,
+      JavaScript , and I am actively learning DSA in Java . Eager to gain
+      hands-on experience, collaborate on real-world projects, and grow in the
+      tech industry.
     actions:
       - type: Button
         label: Hire me
