@@ -118,9 +118,6 @@ sections:
     subtitle: ''
     items:
       - type: Label
-        label: ''
-        url: ''
-      - type: Label
         label: React
         url: ''
       - type: Label
