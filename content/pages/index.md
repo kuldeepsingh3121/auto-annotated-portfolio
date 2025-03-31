@@ -154,6 +154,7 @@ sections:
         elementId: ''
     projects:
       - content/pages/projects/React-JS-Masterclass.md
+      - content/pages/projects/Placement-Preparation.md
     colors: colors-f
     variant: variant-a
     elementId: ''
