@@ -60,7 +60,15 @@ sections:
       JavaScript , and I am actively learning DSA in Java . Eager to gain
       hands-on experience, collaborate on real-world projects, and grow in the
       tech industry.
-    actions: []
+    actions:
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: 'file:///C:/Users/Kuldeep%20Singh/Downloads/My%20Resume.pdf'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/photo1.jpg
