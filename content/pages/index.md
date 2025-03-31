@@ -127,7 +127,7 @@ sections:
         label: JavaScript
         url: ''
       - type: Label
-        label: Netlify
+        label: Bootstrap
         url: ''
       - type: Label
         label: Pancakes
