@@ -62,7 +62,7 @@ sections:
       tech industry.
     actions:
       - type: Button
-        label: Hire me
+        label: Resume
         altText: ''
         url: /
         showIcon: true
