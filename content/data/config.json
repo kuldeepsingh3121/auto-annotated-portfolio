@@ -54,7 +54,7 @@
     },
     "header": {
         "type": "Header",
-        "title": "Your Brand",
+        "title": "Portfolio",
         "isTitleVisible": true,
         "logo": {
             "type": "ImageBlock",
