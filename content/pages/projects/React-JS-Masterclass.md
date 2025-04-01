@@ -23,7 +23,7 @@ backgroundImage:
   opacity: 100
 featuredImage:
   type: ImageBlock
-  url: /images/kuldeepsingh.jpeg
+  url: /images/react certificate.jpg
   altText: ''
   caption: ''
   elementId: ''
